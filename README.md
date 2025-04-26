@@ -2,6 +2,8 @@
 
 A Node.js wrapper for the Supadata API v1, designed for fetching web content and generating YouTube video transcripts.
 
+supdata.ai is a Web & YouTube to text API for makers
+
 ## Features
 
 - Simple API client for all Supadata endpoints
