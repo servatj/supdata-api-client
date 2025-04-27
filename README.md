@@ -154,3 +154,15 @@ Check the `examples` directory for more usage examples:
 ```bash
 # Run the basic usage example
 node examples/basic-usage.js transcript dQw4w9Wg
+```
+
+## Testing
+
+This package includes comprehensive unit tests using Jest. To run the tests:
+
+```bash
+npm test
+```
+
+This will run all tests and generate a coverage report in the `coverage` directory.
+</rewritten_file>

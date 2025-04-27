@@ -1,0 +1,27 @@
+# Git
+.git
+.gitignore
+
+# Development
+node_modules
+.env
+.env.example
+.env.*
+
+# Tests
+test
+coverage
+
+# IDE
+.vscode
+.idea
+*.sublime-*
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# OS generated files
+.DS_Store
+Thumbs.db 
