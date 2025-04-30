@@ -15,10 +15,10 @@ supdata.ai is a Web & YouTube to text API for makers
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/supadata-api-wrapper.git
+git clone https://github.com/servatj/supadata-api-client.git
 
 # Navigate to the directory
-cd supadata-api-wrapper
+cd supadata-api-client
 
 # Install dependencies
 npm install
@@ -31,7 +31,7 @@ cp .env.example .env
 Or if you're using it as a package:
 
 ```bash
-npm install supadata-api-wrapper
+npm install supadata-api-client
 ```
 
 ## Configuration
