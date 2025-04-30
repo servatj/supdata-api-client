@@ -1,6 +1,6 @@
 {
   "name": "supadata-api-wrapper",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "description": "Node.js wrapper for Supadata API v1",
   "main": "index.js",
   "scripts": {
